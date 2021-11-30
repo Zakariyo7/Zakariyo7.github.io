@@ -1,0 +1,78 @@
+
+  body{
+      background-image: url( https://cdn.wallpapersafari.com/51/80/pqFdSg.jpg);
+  } 
+  
+  .navbar .container .navbar-brand{
+      color: linen;
+  }
+  .navbar .container .navbar-brand img {
+   width: 50px;
+
+}
+.navbar .container .navbar-toggler {
+    background-color: chocolate;
+}
+.navbar .offcanvas {
+    color: chocolate;
+    background-color: black;
+    
+}
+.navbar .offcanvas-header {
+  color: black;
+    background-color: chocolate;
+}
+.navbar .offcanvas-body .nav-item .nav-link {
+    color: chocolate;
+}
+.navbar .offcanvas-body .navbar-nav .dropdown-menu {
+    background-color: black;
+}
+.navbar .offcanvas-body .navbar-nav .dropdown-menu .dropdown-item{
+    color: chocolate;
+}
+
+ .carousel-inner .carousel-item img{
+    height: 700px;
+   width: 40px;
+}
+
+.container .row .col {
+    margin-left: 70px;
+}
+.container .row .col .card img{
+    height: 350px;
+} 
+.Oilaviy {
+   color: chocolate;
+   background-color: black;
+    font-size: 32px;
+    margin-left: 550px;
+    width: 430px;
+}
+.text3 {
+    color: chocolate;
+    background-color: rgb(56, 50, 50);
+    font-size: 32px;
+    margin-left: 680px;
+    width: 160px;
+}
+.container .row .col .card {
+    background-color: black;
+    color: chocolate;
+}
+.container .row .col .card .card-body .btn {
+ background-color: chocolate;
+ color: black;
+}
+.text4 {
+    color: chocolate;
+    background-color: black;
+    font-size: 32px;
+    margin-left: 600px;
+    width: 430px;
+}
+.container .row .col .card .btn img {
+    width: 20px;
+    height: 20px;
+}
